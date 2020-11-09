@@ -9,7 +9,10 @@ $ open http://localhost:9292
 ```
 
 ### Exploration
-Open your browser console to see the front end logs and use your terminal logs to explore how this mini full stack app works.
+
+**Task:** Diagram all the request/response cycles that happen when you navigate to `http://localhost:9292` and see the app in your browser.
+
+> There are some starting client and server side log statements. Open your browser console to see the front end logs, use the network tab, and use your terminal logs to explore how this mini full stack app works. Feel free to log more things to get more visibility!
 
 ### Tests
 NB: there are no front-end specs and minimal controller specs. If you're interested see either [this project](https://github.com/dearshrewdwit/count) or [this one](https://github.com/dearshrewdwit/demo-news-summary) for example specs.
