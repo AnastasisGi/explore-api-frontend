@@ -1,3 +1,3 @@
 require './app/app'
 
-run WeatherApi
+run WeatherApp

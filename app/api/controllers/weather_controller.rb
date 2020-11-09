@@ -1,4 +1,4 @@
-class WeatherApi < Sinatra::Base
+class WeatherApp < Sinatra::Base
   namespace '/api' do
     get '/current_weather' do
       puts 'at the endpoint "/current_weather"'

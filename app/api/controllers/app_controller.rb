@@ -1,3 +1,3 @@
-class WeatherApi < Sinatra::Base
+class WeatherApp < Sinatra::Base
   register Sinatra::Namespace
 end
