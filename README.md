@@ -1,9 +1,5 @@
 # Explore Front-end & API
 
-
-
-Open your browser console to see the front end logs and use your terminal logs to explore how this mini full stack app works.
-
 ### Quickstart
 ```sh
 $ git clone git@github.com:dearshrewdwit/explore-api-frontend.git && cd explore-api-frontend
@@ -11,6 +7,9 @@ $ bundle install
 $ bundle exec rackup
 $ open http://localhost:9292
 ```
+
+### Exploration
+Open your browser console to see the front end logs and use your terminal logs to explore how this mini full stack app works.
 
 ### Tests
 NB: there are no front-end specs and minimal controller specs. If you're interested see either [this project](https://github.com/dearshrewdwit/count) or [this one](https://github.com/dearshrewdwit/demo-news-summary) for example specs.
